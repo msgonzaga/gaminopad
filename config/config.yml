@@ -1,0 +1,6 @@
+app_name: Gaminopad
+default_extension: [Texto, .txt]
+icon_path: ico/gaminoicon.ico
+state_reg_memory_len: 50
+temp_filename: wip
+temp_filepath: tmp/
